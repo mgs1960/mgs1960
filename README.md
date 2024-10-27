@@ -1,4 +1,4 @@
-## Hola. Mi nombre es matinur👋
+## Hola. Mi nombre es Manuel👋
 
 <!--
 **mgs1960/mgs1960** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
